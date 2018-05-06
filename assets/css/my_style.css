@@ -1,0 +1,47 @@
+/* body {
+    width: 960px;
+    
+} */
+
+border {
+    /* border: 0px solid grey; */
+}
+
+.top_row {
+    width: 960px;
+    border: 1px solid black;
+    margin: 0 auto 0 auto;
+}
+
+.bgimg {
+    background-image: url('../images/light-veneer.png');
+}
+
+.tab {
+    background-color: #4aaaa5;
+}
+
+.txt_aqua {
+    color: #4aaaa5;
+}
+
+.bg_white {
+    background-color: #ffffff;
+}
+
+.txt_gray {
+    color: gray;
+}
+
+.fcenter {
+    text-align: center;
+    background-color: #666666;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.aquabar {
+    background-color: #4aaaa5;
+    
+}
