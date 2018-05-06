@@ -1,7 +1,7 @@
-/* body {
-    width: 960px;
+body {
+    width: 100%;
     
-} */
+}
 
 border {
     /* border: 0px solid grey; */
@@ -43,5 +43,25 @@ border {
 
 .aquabar {
     background-color: #4aaaa5;
+    
+}
+
+.rel {
+    position: relative;
+    height: auto;
+}
+
+.h3h {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    bottom: 40px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 40px;
     
 }
